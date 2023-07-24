@@ -1,0 +1,117 @@
+1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing
+A Bayesian Framework for Automated Debugging
+ACETest: Automated Constraint Extraction for Testing Deep Learning Operators
+A Comprehensive Study on Quality Assurance Tools for Java
+AGORA: Automated Generation of Test Oracles for REST APIs
+Alligator in Vest: A Practical Failure-Diagnosis Framework via Arm Hardware Features
+An Empirical Study of Functional Bugs in Android Apps
+An Empirical Study on Concurrency Bugs in Interrupt-Driven Embedded Software
+An Empirical Study on the Effects of Obfuscation on Static Machine Learning-Based Malicious JavaScript Detectors
+API2Vec: Learning Representations of API Sequences for Malware Detection
+Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)
+A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation
+Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode
+Automated Program Repair from Fuzzing Perspective
+Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning
+Back Deduction Based Testing for Word Sense Disambiguation Ability of Machine Translation Systems
+BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems
+Beware of the Unexpected: Bimodal Taint Analysis
+Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts
+Building Critical Testing Scenarios for Autonomous Driving from Real Accidents
+Catamaran: Low-Overhead Memory Safety Enforcement via Parallel Acceleration
+CGuard: Scalable and Precise Object Bounds Protection for C
+CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement
+CodeGrid: A Grid Representation of Code
+CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation
+COME: Commit Message Generation with Modification Embedding
+Concept-Based Automated Grading of CS-1 Programming Assignments
+CONCORD: Clone-Aware Contrastive Learning for Source Code
+ConfFix: Repairing Configuration Compatibility Issues in Android Apps
+CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems
+CydiOS: A Model-Based Testing Framework for iOS Apps
+Data Constraint Mining for Automatic Reconciliation Scripts Generation
+DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps
+DeepAtash: Focused Test Generation for Deep Learning Systems
+Definition and Detection of Defects in NFT Smart Contracts
+DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols
+Dependency-Aware Metamorphic Testing of Datalog Engines
+Detecting Condition-Related Bugs with Control Flow Graph Neural Network
+Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing
+Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis
+DeUEDroid: Detecting Underground Economy Apps Based on UTG Similarity
+DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization
+Enhancing REST API Testing with NLP Techniques
+Eunomia: Enabling User-Specified Fine-Grained Search in Symbolically Executing WebAssembly Binaries
+Exploring Missed Optimizations in WebAssembly Optimizers
+Extracting Inline Tests from Unit Tests
+FairRec: Fairness Testing for Deep Recommender Systems
+Finding Short Slow Inputs Faster with Grammar-Based Search
+Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree
+Fuzzing Deep Learning Compilers with HirGen
+Fuzzing Embedded Systems using Debug Interfaces
+GDsmith: Detecting Bugs in Cypher Graph Database Engines
+GenCoG: A DSL-Based Approach to Generating Computation Graphs for TVM Testing
+GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper)
+GrayC: Greybox Fuzzing of Compilers and Analysers for C
+Green Fuzzer Benchmarking
+Green Fuzzing: A Saturation-Based Stopping Criterion using Vulnerability Prediction
+Guided Retraining to Enhance the Detection of Difficult Android Malware
+Guiding Greybox Fuzzing with Mutation Testing
+How Effective Are Neural Networks for Fixing Security Vulnerabilities
+Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis
+Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing
+Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis
+Improving Bit-Blasting for Nonlinear Integer Constraints
+Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction
+In Defense of Simple Techniques for Neural Network Test Case Selection
+Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?
+iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements
+ItyFuzz: Snapshot-Based Fuzzer for Smart Contract
+June: A Type Testability Transformation for Improved ATG Performance
+Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
+Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing
+LiResolver: License Incompatibility Resolution for Open Source Software
+Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning
+ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems
+More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes
+NodeRT: Detecting Races in Node.js Applications Practically
+OCFI: Make Function Entry Identification Hard Again
+Pattern-Based Peephole Optimizations with Java JIT Tests
+PhysCov: Physical Test Coverage for Autonomous Vehicles
+Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation
+Quantitative Policy Repair for Access Control on the Cloud
+Rare Path Guided Fuzzing
+Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection
+RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring
+ROME: Testing Image Captioning Systems via Recursive Object Melting
+SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations
+Security Checking of Trigger-Action-Programming Smart Home Integrations
+Semantic-Based Neural Network Repair
+Silent Compiler Bug De-duplication via Three-Dimensional Analysis
+Simulation-Based Validation for Autonomous Driving Systems
+SlipCover: Near Zero-Overhead Code Coverage for Python
+SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis
+Splendor: Static Detection of Stored XSS in Modern Web Applications
+Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing
+Systematically Producing Test Orders to Detect Order-Dependent Flaky Tests
+Systematic Testing of the Data-Poisoning Robustness of KNN
+Tai-e: A Developer-Friendly Static Analysis Framework for Java by Harnessing the Good Designs of Classics
+Testing Automated Driving Systems by Breaking Many Laws Efficiently
+Testing Graph Database Engines via Query Partitioning
+Testing the Compiler for a New-Born Programming Language: An Industrial Case Study (Experience Paper)
+ωTest: WebView-Oriented Testing for Android Applications
+That’s a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly
+Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?
+To Kill a Mutant: An Empirical Study of Mutation Testing Kills
+Toward Automated Detecting Unanticipated Price Feed in Smart Contract
+Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond
+Towards More Realistic Evaluation for Neural Test Oracle Generation
+Transforming Test Suites into Croissants
+Type Batched Program Reduction
+Understanding and Tackling Label Errors in Deep Learning-Based Vulnerability Detection (Experience Paper)
+Understanding Breaking Changes in the Wild
+Validating Multimedia Content Moderation Software via Semantic Fusion
+Vectorizing Program Ingredients for Better JVM Testing
+Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications
+What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications
+Who Judges the Judge: An Empirical Study on Online Judge Tests
